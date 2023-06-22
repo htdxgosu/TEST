@@ -1,0 +1,28 @@
+/* CSS Document */
+*{
+	margin:0 3px 0 3px;
+	padding:0;
+	text-align:center;
+}
+header{
+	background-color: #0C6;
+	color:#FFF;
+}
+footer{
+	background-color:#FFF;
+	color:#999;
+}
+header h2{
+	padding-top:40px;
+}
+header span{
+	padding-bottom:60px;
+}
+form{
+	padding-top:20px;
+}
+#btn{
+	color:#FFF;
+	display: inline-block; 
+	padding:10px 30px;
+}
